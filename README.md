@@ -1,2 +1,2 @@
 # Channaraju
-this is my first kanchu
+this is my first repositry
